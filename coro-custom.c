@@ -96,6 +96,6 @@ main(
    return 0;
 }
 
-/* clang -o coroutines1 -g coxrout-1.S coxrout-2.c coro-custom.c */
+/* clang -o coroutine1 -g coxrout-1.S coxrout-2.c coro-custom.c */
 
 

@@ -103,5 +103,5 @@ main(
     return 0;
 }
 
-/* clang -o coroutines2 -g coro-builtin.c */
+/* clang -o coroutine2 -g coro-builtin.c */
 
